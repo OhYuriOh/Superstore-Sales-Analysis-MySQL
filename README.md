@@ -1,12 +1,12 @@
-# Superstore_Sales_Analysis
+## Superstore_Sales_Analysis
 
-## Objective: Determine if the business is doing better or worse YoY, and create other business questions to explore.
-## By: Yuri Oh
-## Data provided by WeCloudData
+#### Objective: Determine if the business is doing better or worse YoY, and create other business questions to explore.
+#### By: Yuri Oh
+#### Data provided by WeCloudData
 ****************************************
 CONTENTS
 ****************************************
-A. Creating the database and the product, orders, customer, and returns tables
+A. Creating the database and the product, orders, customer, and returns tables/t
 B. Exploring the timeframe and dates of the data
 C. Exploring top profit, expenses, sales, orders and avearages per year
 D. Exploring Customer Info 
